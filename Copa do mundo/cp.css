@@ -1,0 +1,17 @@
+html,body{
+    margin: 0;
+    padding: 0;
+
+}
+
+
+header{
+    width: 50px;
+    background-color: rgb(135, 11, 45)
+    padding: 8px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
